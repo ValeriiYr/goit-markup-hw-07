@@ -1,0 +1,18 @@
+.header {
+  @extend %header-background;
+}
+
+.header-portfolio {
+  @extend %header-background;
+  border-bottom: 1px solid #ececec;
+}
+
+.container-flex {
+  display: flex;
+  align-items: center;
+}
+
+.container-nav {
+  display: flex;
+  align-items: center;
+}

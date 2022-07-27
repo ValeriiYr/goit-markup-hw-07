@@ -1,0 +1,22 @@
+$primary-text-color: #212121;
+$secondary-text-color: #757575;
+$white-text-color: #ffffff;
+$black-text-color: #000000;
+$accent-color: #2196f3;
+$primary-background-color: #ffffff;
+$secondary-background-color: #f5f4fa;
+$footer-header-background: #2f303a;
+$color-social-icon: #afb1b8;
+$project-border-color: #eeeeee;
+$header-logo-fonts: 'Raleway';
+$main-font: 'Roboto';
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
